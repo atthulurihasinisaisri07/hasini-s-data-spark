@@ -199,10 +199,10 @@ function Index() {
               </div>
             </div>
             <div className="flex gap-3 pt-4">
-              <a href="https://linkedin.com" target="_blank" rel="noreferrer" className="flex-1 inline-flex items-center justify-center gap-2 rounded-full px-5 py-3 font-medium glass hover:border-primary transition-colors">
+              <a href="https://www.linkedin.com/in/hasini-sai-sri-atthuluri-453b2237a/" target="_blank" rel="noreferrer" className="flex-1 inline-flex items-center justify-center gap-2 rounded-full px-5 py-3 font-medium glass hover:border-primary transition-colors">
                 <Linkedin className="h-4 w-4" /> LinkedIn
               </a>
-              <a href="https://github.com" target="_blank" rel="noreferrer" className="flex-1 inline-flex items-center justify-center gap-2 rounded-full px-5 py-3 font-medium glass hover:border-primary transition-colors">
+              <a href="https://github.com/atthulurihasinisaisri07" target="_blank" rel="noreferrer" className="flex-1 inline-flex items-center justify-center gap-2 rounded-full px-5 py-3 font-medium glass hover:border-primary transition-colors">
                 <Github className="h-4 w-4" /> GitHub
               </a>
             </div>
@@ -232,8 +232,8 @@ function Index() {
         <div className="mx-auto max-w-6xl px-6 py-10 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-sm text-muted-foreground">© 2026 Hasini Sai Sri Attuluri. All rights reserved.</p>
           <div className="flex gap-4">
-            <a href="https://github.com" target="_blank" rel="noreferrer" className="grid h-10 w-10 place-items-center rounded-full glass hover:border-primary transition-colors"><Github className="h-4 w-4" /></a>
-            <a href="https://linkedin.com" target="_blank" rel="noreferrer" className="grid h-10 w-10 place-items-center rounded-full glass hover:border-primary transition-colors"><Linkedin className="h-4 w-4" /></a>
+            <a href="https://github.com/atthulurihasinisaisri07" target="_blank" rel="noreferrer" className="grid h-10 w-10 place-items-center rounded-full glass hover:border-primary transition-colors"><Github className="h-4 w-4" /></a>
+            <a href="https://www.linkedin.com/in/hasini-sai-sri-atthuluri-453b2237a/" target="_blank" rel="noreferrer" className="grid h-10 w-10 place-items-center rounded-full glass hover:border-primary transition-colors"><Linkedin className="h-4 w-4" /></a>
             <a href="mailto:hasinisairiattuluri@gmail.com" className="grid h-10 w-10 place-items-center rounded-full glass hover:border-primary transition-colors"><Mail className="h-4 w-4" /></a>
           </div>
         </div>
