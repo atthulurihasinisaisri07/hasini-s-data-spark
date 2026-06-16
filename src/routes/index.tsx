@@ -24,7 +24,7 @@ export const Route = createFileRoute("/")({
   component: Index,
 });
 
-const skills = ["Python","SQL","HTML","CSS","JavaScript","Git & GitHub","VS Code","NumPy","Matplotlib","Tableau","Data Visualization"];
+const skills = ["Python","SQL","HTML","CSS","JavaScript","Git & GitHub","VS Code","NumPy","Pandas","Matplotlib","Tableau","Power BI","Excel","Data Visualization"];
 
 const LINKEDIN_URL = "https://www.linkedin.com/in/hasini-sai-sri-atthuluri-453b2237a";
 const GITHUB_URL = "https://github.com/atthulurihasinisaisri07";
